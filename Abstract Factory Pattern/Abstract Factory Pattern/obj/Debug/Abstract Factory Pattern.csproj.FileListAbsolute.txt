@@ -1,0 +1,8 @@
+C:\Users\Jackson\Desktop\University\Junior\Design Patterns\Abstract Factory Pattern\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\Abstract Factory Pattern.exe.config
+C:\Users\Jackson\Desktop\University\Junior\Design Patterns\Abstract Factory Pattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\Abstract_Factory_Pattern.Form1.resources
+C:\Users\Jackson\Desktop\University\Junior\Design Patterns\Abstract Factory Pattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\Abstract_Factory_Pattern.Properties.Resources.resources
+C:\Users\Jackson\Desktop\University\Junior\Design Patterns\Abstract Factory Pattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.csproj.GenerateResource.Cache
+C:\Users\Jackson\Desktop\University\Junior\Design Patterns\Abstract Factory Pattern\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\Abstract Factory Pattern.exe
+C:\Users\Jackson\Desktop\University\Junior\Design Patterns\Abstract Factory Pattern\Abstract Factory Pattern\Abstract Factory Pattern\bin\Debug\Abstract Factory Pattern.pdb
+C:\Users\Jackson\Desktop\University\Junior\Design Patterns\Abstract Factory Pattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.exe
+C:\Users\Jackson\Desktop\University\Junior\Design Patterns\Abstract Factory Pattern\Abstract Factory Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.pdb
